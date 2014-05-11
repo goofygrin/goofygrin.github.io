@@ -1,0 +1,21 @@
+# Dependencies
+#markdown:         redcarpet
+#pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Home
+tagline:          A blog by goofygrin
+url:              http://goofygrin.github.io
+paginate:         1
+author:
+  name:           Sean Goodpasture
+  url:            https://twitter.com/g00fygrin
+  email:          goofygrin@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/goofygrin/goofygrin

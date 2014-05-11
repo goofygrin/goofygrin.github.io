@@ -1,0 +1,56 @@
+{% include head.html %}
+	<!--
+		Note: Set the body element's class to "left-sidebar" to position the sidebar on the left.
+		Set it to "right-sidebar" to, you guessed it, position it on the right.
+	-->
+	<body class="left-sidebar">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Content -->
+					<div id="content">
+						<div id="content-inner">
+					        {{ content }}
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+					
+						<!-- Logo -->
+							<div id="logo">
+								<h1>A blog by goofygrin</h1>
+							</div>
+					
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li class="current_page_item"><a href="#">Latest Post</a></li>
+									<li><a href="#">Archives</a></li>
+									<li><a href="#">About Me</a></li>
+									<li><a href="#">Contact Me</a></li>
+								</ul>
+							</nav>
+
+						<!-- Recent Posts -->
+							<section class="is-recent-posts">
+								<header>
+									<h2>Recent Posts</h2>
+								</header>
+								<ul>
+                                    {% for post in paginator.posts %}
+                                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                                    {% endfor %}
+								</ul>
+							</section>
+					
+					
+						{% include footer.html %}
+						
+					</div>
+
+			</div>
+
+	</body>
+</html>
