@@ -39,4 +39,13 @@ layout: default
 	
 	<br />
 	<a href="https://github.com/goofygrin/Feedback/issues/new" title="Leave goofygrin feedback using GitHub" target="_blank"><i class="icon-comment icon-white"></i> Leave me feedback</a>
+	<div class="pager">
+		{% if page.previous.url %}
+			<a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}" class="button previous">Previous Post</a>
+		{% endif %}   
+		{% if page.next.url %} 	
+		<a href="{{page.next.url}}" title="Next Post: {{page.next.title}}" class="button next">Next Post</a>
+		{% endif %} 
+		
+	</div>
 </article>
