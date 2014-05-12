@@ -25,13 +25,18 @@ layout: default
 		<span class="date"><span class="month">{{ page.date | date: "%b" }}<!--<span>uary</span>--></span> <span class="day">{{ page.date | date: "%-d" }}</span><span class="year">, {{ page.date | date: "%Y" }}</span></span>
 		<!--
 			Note: You can change the number of list items in "stats" to whatever you want.
-		
+		-->
 		<ul class="stats">
-			<li><a href="#" class="fa fa-comment">16</a></li>
+			<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://dev.twitter.com/pages/tweet_button" data-via="g00fygrin" data-lang="en" data-related="anywhereTheJavascriptAPI" data-count="vertical">Tweet</a></li>
+<!--
 			<li><a href="#" class="fa fa-heart">32</a></li>
 			<li><a href="#" class="fa fa-twitter">64</a></li>
 			<li><a href="#" class="fa fa-facebook">128</a></li>
-		</ul>-->
+			-->
+		</ul>
 	</div>
 	{{ page.content }}
+	
+	<br />
+	<a href="https://github.com/goofygrin/Feedback/issues/new" title="Leave goofygrin feedback using GitHub" target="_blank"><i class="icon-comment icon-white"></i> Leave me feedback</a>
 </article>
