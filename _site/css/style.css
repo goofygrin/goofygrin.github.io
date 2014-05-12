@@ -936,6 +936,10 @@
 				color: #1b252a;
 				font-weight: 700;
 			}
+	.is-post .post-content ul { 
+		list-style-type: disc; 
+		margin-left: 20px;
+	}
 	
 	.is-recent-posts,
 	.is-recent-comments
