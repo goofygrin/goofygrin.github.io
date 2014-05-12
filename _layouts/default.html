@@ -20,10 +20,11 @@
 					
 						<!-- Logo -->
 							<div id="logo">
-								<h1>A blog by goofygrin</h1>
+								<h1><a href="/">A blog by goofygrin</a></h1>
 							</div>
 					
 						<!-- Nav -->
+							<!--
 							<nav id="nav">
 								<ul>
 									<li class="current_page_item"><a href="#">Latest Post</a></li>
@@ -32,15 +33,15 @@
 									<li><a href="#">Contact Me</a></li>
 								</ul>
 							</nav>
-
+							-->
 						<!-- Recent Posts -->
 							<section class="is-recent-posts">
 								<header>
 									<h2>Recent Posts</h2>
 								</header>
 								<ul>
-                                    {% for post in paginator.posts %}
-                                        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+                                    {% for post in site.posts limit:3 %} 
+                                        <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
                                     {% endfor %}
 								</ul>
 							</section>

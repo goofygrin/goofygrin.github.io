@@ -145,6 +145,10 @@
 			font-size: 2em;
 			letter-spacing: 0.1em;
 		}
+		#logo h1 a
+		{
+			text-decoration: none;
+		}
 
 /*********************************************************************************/
 /* Content                                                                       */
