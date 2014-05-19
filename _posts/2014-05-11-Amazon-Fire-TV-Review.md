@@ -2,6 +2,7 @@
 layout: post
 title: Amazon Fire TV Review
 tags: [home theater, review]
+excerpt: Continuing my search for the best home theater black box
 ---
 
 tl;dr; Save your money for now.

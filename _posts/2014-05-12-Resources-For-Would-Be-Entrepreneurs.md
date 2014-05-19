@@ -2,6 +2,7 @@
 layout: post
 title: Resources for Would Be Entrepreneurs
 tags: [entrepreneurship, advice]
+excerpt: My standard response to new entrepreneurs
 ---
 
 I'm frequently asked advice from friends and family about starting and running a business.  I don't have the most experience and my knowledge is limited.

@@ -2,6 +2,7 @@
 layout: post
 title: The New Baseline
 tags: [electric cars]
+excerpt: Second gen Electric Car buyers have a new baseline
 ---
 
 In December, I decided I wanted an electric car.  Heck, two years ago I wanted one, but my options were a Nissan Leaf or a Tesla Model S (or Roadster).  The Volt was on the table too since it was mostly electric for my commutes.  I was *really* close to leasing a Volt, but backed out and leased a Cadillac CTS-V instead.  Maybe it was one last gas fuelled hurrah.  Who knows.
