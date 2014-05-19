@@ -1,0 +1,23 @@
+---
+layout: post
+title: The New Baseline
+tags: [electric cars]
+---
+
+In December, I decided I wanted an electric car.  Heck, two years ago I wanted one, but my options were a Nissan Leaf or a Tesla Model S (or Roadster).  The Volt was on the table too since it was mostly electric for my commutes.  I was *really* close to leasing a Volt, but backed out and leased a Cadillac CTS-V instead.  Maybe it was one last gas fuelled hurrah.  Who knows.
+
+At the same time, a friend of mine, Chris, sold his E39 M5 (we both had E39 M5's at the time) and bought a Volt (he basically worked a similar deal as me and the dollars just made sense).  Since then we've kept in touch, him sending updates as to how little gas he was using.. I'd send an update about how fast my car was and how poor its fuel economy was (12-14 around town).  I kept following the Model S as Tesla announced different financing schemes (which I can take advantage of as a business owner).  I still couldn't justify nearly $100,000 on a car.
+
+Last December, "I'm bored with this car" hit me (again).  I'd leased the V for three years in the hope of forcing myself to keep it longer (I was averaging about 12 months per car at the point).  It didn't work.  But there really wasn't anything on the market that I liked.  I did a test drive event for the Model S and nearly pulled the trigger (they had one ready for me in the exact configuration I wanted).  After a talk with another buddy, Rob, I realized that I had no desire to blow that much cash on a car again (the V at nearly $73k was overly extravegant).  
+
+It was a comment on Reddit that really got me back into the real hunt for something.  I hadn't really been paying attention to the other EVs on the market here in the US.  Apparently in the 18 months I'd owned the V a bunch more options had come on line.  The Leaf was updated, the Honda Fit EV was a winner, the Rav4 EV had Tesla underpinnings.  Smart had an EV, Fiat was coming out with an EV 500.  And Ford had taken the wildly successful Focus and turned it into a compliance EV.  Out of all the non Teslas, the Focus was the only one I could see myself driving.
+
+Only problem?  The dealers in Dallas didn't have any.  Heck the dealers in Texas didn't have any.  I tried for a few days around Christmas to get a dealer here to do a trade to get me one, but they simply couldn't do it.  So I got to researching.  I knew I was going to lease the car, so I started hitting up swapalease.com and leasetrader.com.  Long story short, a few months later (Ford Credit is incredibly slow) I took delivery of a 2013 Focus EV with 9000 miles and 23 months left on it's lease.
+
+I still keep in touch with Chris.  He's pining for an EV with a bit more sport (like me, he tends towards sportier cars like M3s, M5s, Camaros, etc.).  We've been discussing the new i3 and i8 offerings from BMW (he test drove the i3 and liked the dynamics, but hated the small motor and gas tank -- I can't stand the look of the i3, nor the price tag).  He's anxiously waiting for the Volt 2.0 to be released as his lease ends this year and he doesn't have a good replacement lined up.  Like me, he's has no desire to drive a gas powered car on a daily basis any more (but unlike me, he wants a range extender).
+
+The Oatmeal published a [comic](http://theoatmeal.com/comics/tesla_model_s) about how great his Model S is and I sent it to Chris.  His response has stuck with me and I can't stop thinking about it.  It's so spot on it's astounding.
+
+> Cool page – loved it.  It is kind of funny to read about electric cars.  The VAST majority of electric car owners are on the their FIRST electric (you, me, and just about everyone else).  As a result, we are all sort of enamored with the things that (frankly) almost every electric car has, but a funny thing happens when it is time for your NEXT electric car... you start wanting all the same stuff you’ve wanted forever in a car (i.e. good looks, performance, more room, decent value, etc.)... it's just that now your baseline is "...with an electric drivetrain".  Of course so few of us own electrics, there will be loads of "first timers" for years to come.  That's actually a little frustrating since auto makers are more inclined right now to build for "first timers" as opposed to making an awesome second or third electric.  Well, Tesla did, but there’s that dang price!
+
+And he's right. I'm already thinking of the things that could be better in the Focus EV.  Don't get me wrong, I really like the car and I have no desire for anything different right now. I just know that a second effort could be that much better.
